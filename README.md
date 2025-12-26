@@ -1,4 +1,8 @@
 all the basic dsa learnt <br>
+This repository contains implementations of core data structures in C.
+I focused on understanding memory management, pointer manipulation,
+and time/space complexity of common operations.
+
 Stack (LL): Push & Pop → O(1)<br>
 
 Priority Queue (LL): Enqueue → O(n), Dequeue → O(1)<br>
